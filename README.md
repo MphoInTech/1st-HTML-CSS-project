@@ -1,2 +1,24 @@
-# 1st-HTML-CSS-project
-My first HTML &amp; CSS project built with SheCodes Foundation. A simple landing page with links, a button, and centered content. I’m officially on my way to mastering the art of centering a div! 😄
+## 1st-HTML-CSS-project
+
+# SheCodes Landing Page 👩🏾‍💻
+-This is my very first HTML & CSS project, built while learning through the SheCodes Foundation.
+-It's a simple landing page with links, a button, and yes... **I’m one step closer to mastering how to center a div!** (IYKYK 😉).
+
+---
+
+###🌟 Features:
+-Clean and simple design
+-Buttons with hover effects
+-Links to SheCodes resources
+-Centered text inside a <div> (progress counts! 🎉)
+
+---
+
+###🔧 Technologies Used:
+-HTML5
+-CSS3
+
+---
+
+📝 Acknowledgments:
+Thanks to **SheCodes** for the beginner-friendly lessons that made this possible.
